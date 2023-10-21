@@ -1,1 +1,1 @@
-# axum_leptos_htmx_sample
+# actix_leptos_htmx_sample
